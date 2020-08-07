@@ -31,6 +31,7 @@ Material do curso git e github que ministrei pela LADSOFT(Liga Acadêmica de Des
 - entendendo o REBASE;
 - merge e rebase na prática;
 
+----
 ## Aula 05 EXTRA
 - concluir possíveis assuntos;
 - tirar dúvidas;
